@@ -15,5 +15,6 @@ Raw data from <https://www.backblaze.com/b2/hard-drive-test-data.html> , was dow
 ## Dependencies
 * `install.packages(c('tidyverse','survival','survminer','scales'))`
 
-## Survival Analysis
+## Article
+Article in Russian, describing the results: <https://habrahabr.ru/post/348754/>
 
